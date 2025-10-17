@@ -1,4 +1,4 @@
-Netflix-Website
+Netflix-Clone
 This is simple and responsive website built using HTML and CSS 
 It showcases my Basic webdevelopment skills
 
